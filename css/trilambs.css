@@ -1,16 +1,16 @@
-div.navbar.navbar-default.navbar-static-top {
-padding-top: 20px;
-padding-bottom: 20px;
-}
-
-.jumbotron {
-background-color: #C6D1F3;
-}
-
 .intro_title_text{
+	padding-top: 14%;
 	text-align: center;
-	}
+}
 
+.greek_font{
+	font-family: 'Noto Serif', serif;
+}
+
+.intro_title_lambdas h1{
+	font-size: 50px;
+}
+	
 .contact_us h4{
 	text-align: center;
 	font-weight: bold;
