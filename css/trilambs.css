@@ -6,3 +6,46 @@ padding-bottom: 20px;
 .jumbotron {
 background-color: #C6D1F3;
 }
+
+.intro_title_text{
+	text-align: center;
+	}
+
+.contact_us h4{
+	text-align: center;
+	font-weight: bold;
+	}
+	
+.about_us h4{
+	text-align: center;
+	font-weight: bold;
+	}
+	
+.chapter_info h4{
+	text-align: center;
+	font-weight: bold;
+	}
+	
+.being_a_brother h4{
+	text-align: center;
+	}
+	
+.why_lambdas_are_awesome h4{
+	text-align: center;
+	}
+	
+.afterthought_box{
+	background-color: limegreen;
+}
+
+.afterthought_box h4{
+	margin: 0px;
+	}
+	
+.afterthought_textcontainer{
+	padding: 20px 10px 20px 10px;
+}
+
+.final_advice{
+	text-align: center;
+}
