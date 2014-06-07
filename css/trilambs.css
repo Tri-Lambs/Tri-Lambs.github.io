@@ -1,3 +1,17 @@
+.navbar{
+	margin-bottom: 0px;
+}
+
+.intro_title_block{
+	background-color: teal;
+	background-image:url('../img/blackorchid.png');
+	background-repeat:repeat;
+}
+
+.img_seal{
+	padding: 5% 0%
+}
+
 .intro_title_text{
 	padding-top: 14%;
 	text-align: center;
@@ -9,6 +23,19 @@
 
 .intro_title_lambdas h1{
 	font-size: 50px;
+}
+
+.central_text_box{
+	padding: 10px 20px;
+	background-color: lightgray;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px; /* future proofing */
+	-khtml-border-radius: 15px; /* for old Konqueror browsers */
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 	
 .contact_us h4{
@@ -25,6 +52,11 @@
 	text-align: center;
 	font-weight: bold;
 	}
+
+.end_of_page_block {
+	background-image:url('../img/blackorchid.png');
+	background-repeat:repeat;
+}
 	
 .being_a_brother h4{
 	text-align: center;
@@ -35,7 +67,12 @@
 	}
 	
 .afterthought_box{
-	background-color: limegreen;
+	background-color: #CFB53B;
+	margin: 20px;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 12px;
+	border-radius: 12px; /* future proofing */
+	-khtml-border-radius: 12px; /* for old Konqueror browsers */
 }
 
 .afterthought_box h4{
