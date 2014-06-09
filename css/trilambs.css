@@ -6,10 +6,6 @@
 	font-family: 'Muli', sans-serif;
 }
 
-.intro_title_text{
-	font-family: 'Oswald', sans-serif;
-}
-
 .navbar{
 	margin-bottom: 0px;
 }
@@ -22,20 +18,26 @@
 }
 
 .intro_title_text{
-	padding-top: 14%;
-	text-align: center;
+	padding-top: 9%;
+	font-family: 'Quattrocento', serif;
 }
 
 .intro_title_text h1{
-	font-weight: 300;
+	font-family: 'Quattrocento', serif;
+	/*font-weight: 700;*/
+	font-size: 66px;
+	margin: 10px 0 10px 0;
 }
 
 .greek_font{
 	font-family: 'Noto Serif', serif;
 }
 
-.intro_title_lambdas h1{
+.intro_title_lambdas h2{
+	margin: 20px 0 10px 0;
+	padding-top:10px;
 	font-size: 50px;
+	border-top: 1px solid #333;
 }
 
 .mission_statement{
