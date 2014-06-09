@@ -1,11 +1,20 @@
+.row{
+	margin: 0px;
+}
+
+*{
+	font-family: 'Muli', sans-serif;
+}
+
+.intro_title_text{
+	font-family: 'Oswald', sans-serif;
+}
+
 .navbar{
 	margin-bottom: 0px;
 }
 
 .intro_title_block{
-	background-color: teal;
-	background-image:url('../img/blackorchid.png');
-	background-repeat:repeat;
 }
 
 .img_seal{
@@ -17,12 +26,24 @@
 	text-align: center;
 }
 
+.intro_title_text h1{
+	font-weight: 300;
+}
+
 .greek_font{
 	font-family: 'Noto Serif', serif;
 }
 
 .intro_title_lambdas h1{
 	font-size: 50px;
+}
+
+.mission_statement{
+	padding: 50px;
+}
+
+.mission_statement p{
+	font-size: 20px;
 }
 
 .central_text_box{
@@ -54,7 +75,7 @@
 	}
 
 .end_of_page_block {
-	background-image:url('../img/blackorchid.png');
+	background-image:url('../img/hexabump.png');
 	background-repeat:repeat;
 }
 	
@@ -68,7 +89,7 @@
 	
 .afterthought_box{
 	background-color: #CFB53B;
-	margin: 20px;
+	margin: 40px 20px 30px 20px;
 	-moz-border-radius: 12px;
 	-webkit-border-radius: 12px;
 	border-radius: 12px; /* future proofing */
@@ -83,6 +104,12 @@
 	padding: 20px 10px 20px 10px;
 }
 
+.horizontal_rule{
+	border-bottom: 1px solid #505050;
+	margin: 0 1%; 
+}
+
 .final_advice{
 	text-align: center;
+	color: #696969;
 }
